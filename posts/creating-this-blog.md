@@ -39,7 +39,7 @@ So without further ado, here are the steps that I used to create this blog.
 3. **Deployment to Netlify:** 
 
     For this part I created an account at Netlify with my github credentials (be careful here, you should be able to restrict access to just your blog repo instead of the default all repos). I then created a new project with the import an existing project option. Be sure that your package.json settings match the build settings on netlify. 
-    ![Image of Netlify Settings]("@./../../assets/images/netlify-configuration.PNG)
+    ![Image of Netlify Settings](../../assets/images/netlify-configuration.png)
 
     Mine were correct right out of the box. After that just click "deploy site" and you should be good to go if your post is in the branch that you set to deploy. 
 
