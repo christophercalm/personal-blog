@@ -1,11 +1,10 @@
 {
-    "url": "https://eleventy-blog-mnml.netlify.app",
-    "description": "A minimal blog template using eleventy",
+    "url": "",
+    "description": "Christopher'sBlog",
     "author": {
-      "name": "Arpit Batra",
-      "email": "arpitbatra123@gmail.com",
-      "twitter": "https://twitter.com/arpitbatra123",
-      "github": "https://github.com/arpitbatra123"
+      "name": "Christopher C",
+      "email": "christophercalmesdev@gmail.com",
+      "github": "https://github.com/christophercalm"
     },
     "feedUrl": "/feed.xml"
   }

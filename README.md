@@ -23,14 +23,4 @@ A minimal blog template using [eleventy](https://www.11ty.io/docs/).
 
 <img width="1552" alt="Screenshot 2021-03-03 at 7 43 11 PM" src="https://user-images.githubusercontent.com/21967563/109819029-a2313700-7c59-11eb-9c17-c7f40f5fdb12.png">
 
-## Real World Use Case
-
-My personal website, which is available over [here](https://arpitbatra.netlify.app), is built using this template as the base.
-
-## Bugs, Feature Requests or Questions?
-Ask away [@arpitbatra123](https://twitter.com/arpitbatra123) on twitter or shoot me a mail at arpitbatra123@gmail.com
-
-## If this project helped you,
-
-[![](https://user-images.githubusercontent.com/21967563/107871095-922cff80-6ec4-11eb-9893-a9269742d7cf.png)](https://www.buymeacoffee.com/arpitbatra123)
 
