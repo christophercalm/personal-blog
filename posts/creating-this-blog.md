@@ -20,7 +20,7 @@ I expected to have to install tons of software or create some website with some 
 
 ### Stack Chosen:
 
-I went with [11.ty](https://www.11ty.dev/) for the static site generator because I am more familiar with the JS ecosystem and it had all the features that I could possibly want for this blog. For hosting, I considered github pages but I saw that [netlify](https://www.netlify.com/) had some great free hosting and url names. 
+I went with [11.ty](https://www.11ty.dev/) for the static site generator because I am more familiar with the JS ecosystem and it had all the features that I could possibly want for this blog. For hosting, I considered github pages but I saw that [Netlify](https://www.netlify.com/) had some great free hosting and url names. 
 
 With these two options, I can write a blog post in markdown, push or merge it to master, and netlify will take care of all of the build steps for me without having to fiddle with some wordpress on a Linux VPS as I have done in the past. 
 
@@ -39,7 +39,10 @@ So without further ado, here are the steps that I used to create this blog.
 3. **Deployment to Netlify:** 
 
     For this part I created an account at Netlify with my github credentials (be careful here, you should be able to restrict access to just your blog repo instead of the default all repos). I then created a new project with the import an existing project option. Be sure that your package.json settings match the build settings on netlify. 
+
+
     ![Image of Netlify Settings](../../assets/images/netlify-configuration.png)
+
 
     Mine were correct right out of the box. After that just click "deploy site" and you should be good to go if your post is in the branch that you set to deploy. 
 
