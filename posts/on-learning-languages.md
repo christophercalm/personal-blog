@@ -1,6 +1,6 @@
 ---
 date: Last Modified
-title: Memorizing and Speaking Vs. *Listening*
+title: Memorizing and Speaking a Foreign Language Vs. *Listening*
 ---
 
 > "He who has ears to hear, let him hear." (Matthew 11:15)
@@ -37,10 +37,11 @@ While going to a public Taiwanese elementary school, I had to be able to speak t
 While I have moved on a bit past Dreaming Spanish's comprehensible input videos to more native media, I have committed to language learning with the technique of Comprehensible Input. I have found that it has led to a much more fluid speaking ability and much less awkward translating of grammar on the fly. I have been learning with this method for about 8 months and I am looking forward to when I am able to understand and truly comprehend native content. I also plan on going back to my first-second language, Mandarin, and trying to become a more faithful and accurate speaker of it.
 
 Below I have left some useful (to me) links for comprehensible input.
+<br></br>
 
 ---
 
-
+<br></br>
 
 #### My Favorite Video Sources (from easiest to most difficult):
 <ul>
