@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Christopher's Blog
 ---
 
-# Welcome to Hollywoo
+# Welcome to ChristopherCalm
 
-Hello. I am BoJack. Horseman, obviously
+Hello. My name is Christopher and welcome to my blog.
