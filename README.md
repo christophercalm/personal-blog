@@ -1,8 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6f09e1c5-14d2-47e1-be55-eeb90ffd46dd/deploy-status)](https://app.netlify.com/sites/eleventy-blog-mnml/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba0c86d4-5dce-45dc-9ce8-50f86b39ca04/deploy-status)](https://app.netlify.com/sites/christophers-blog/deploys)
 
-# **eleventy-blog-mnml**
-
-A minimal blog template using [eleventy](https://www.11ty.io/docs/).
+# Christopher's Blog
 
 ## Features
 
