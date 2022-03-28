@@ -22,6 +22,8 @@ Listening, and not speaking, writing, or even reading, is what is missing in mos
 Recently I have taken up learning Spanish after many years of learning (and forgetting) Mandarin Chinese. Being a (sort of) engineer, I wanted to pick the easiest and most effective path. So I did some research. I found many different recommendations for Youtube channels and websites, but one kept coming up: [Pablo's Dreaming Spanish](https://www.dreamingspanish.com/). Dreaming Spanish introduced me to the idea of "Comprehensible Input" related to the [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis) research done by Stephen Krashen in the 1970s and 1980s. The idea of Comprehensible Input is that one learns through being introduced to new words and grammatical constructs through repeated exposure to those words and constructs in context ***not memorization*** . That means that none of the native language is used to learn the new language. For a more detailed explanation of his methods (there are English subtitles) here is the playlist where he explains his method.
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M5RwvFnsZ_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Or for those who prefer to read, [Dreaming Spanish Method](https://www.dreamingspanish.com/method)
 
