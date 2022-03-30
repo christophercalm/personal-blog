@@ -1,22 +1,13 @@
 ---
 date: Last Modified
-title: Creating this Blog. 
+title: Creating this Blog with 11ty and Netlify. 
 ---
-
-## Why and How I Created a Blog with Netlify
-
-- [Why and How I Created a Blog with Netlify](#why-and-how-i-created-a-blog-with-netlify)
-  - [Motivation and Expectations:](#motivation-and-expectations)
-  - [Stack Chosen:](#stack-chosen)
-  - [How to Replicate:](#how-to-replicate)
-  - [Conclusions:](#conclusions)
-
 
 ### Motivation and Expectations:
 
-I would like to share my experience and a bit of motivation for creating this blog. Recently I have been reading quite a few articles on HackerNews which are primarily intellectually stimulating and technical articles. However, what has been holding me back is not wanting to get acquainted with a new CMS or having to write html by hand. Not that it is super difficult, but it is not something that I particularly enjoy. 
+I would like to share my experience and a bit of motivation for creating this blog. Recently I have been reading quite a few articles on HackerNews which are primarily intellectually stimulating and technical articles. Reading this inspired me this year to create a blog of my own. However, what has been holding me back is not wanting to get acquainted with a new CMS or the alternative, organizing pages and having to copy and paste them. 
 
-I expected to have to install tons of software or create some website with some inferior wysiwyg online editor or have to write the html and css by hand. However, I have found that in 2022 creating this sort of blog is incredibly easy if you go the path that I have taken. 
+I expected to have to install tons of software or create some website with a poor wysiwyg online editor or have to write the HTML and CSS by hand. However, I have found that in 2022 creating this sort of blog is incredibly easy if you go the path that I have taken. 
 
 ### Stack Chosen:
 
