@@ -3,13 +3,15 @@ layout: homepage.liquid
 title: Christopher's Blog
 ---
 
-# ChristopherCalm
+# Thoughts Collected
 
-Hello,
+<img src="assets/images/header.jpg"></img>
+
+#### Hello,
 
 And welcome to my blog. I plan on using this as a springboard for creativity and personal development. 
 
-My name is Christopher and I am a full stack software developer newly based out of coastal Mississippi. 
+My name is Chris and I am a full stack software developer newly based out of coastal Mississippi. 
 
 I have found that over the years, interesting ideas, links, and applications that I have collected usually become lost. My goal is to save these here as a reference for my future self and for you! I hope that these ramblings will be of some use to you and me. 
 
