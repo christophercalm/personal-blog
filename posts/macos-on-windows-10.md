@@ -11,7 +11,7 @@ If you have ever wanted to give macOS a try but didn't have access to Apple hard
 
 - Install latest [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
-- Install Cygwin https://www.cygwin.com/ This will let us install the tools that the script depends on. 
+- Install [Cygwin](https://www.cygwin.com/) This will let us install the tools that the script depends on. 
 You will need to search for and install vim-common, unzip, and wget. If you forgot these just rerun the installer and search for the packages.
 
 ![Image of cygwin Settings](../../assets/images/macOS-on-Windows/cygwin.PNG)
