@@ -1,5 +1,5 @@
 ---
-date: Last Modified
+date: Mar 2022
 title: Self Learning and Personal Projects
 ---
 
