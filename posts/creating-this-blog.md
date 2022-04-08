@@ -1,5 +1,5 @@
 ---
-date: Mar 2022
+date: Created
 title: Creating this Blog with 11ty and Netlify. 
 ---
 
