@@ -1,5 +1,5 @@
 ---
-date: Created
+date: 2022-03-11
 title: Memorizing and Speaking a Foreign Language Vs. *Listening*
 ---
 

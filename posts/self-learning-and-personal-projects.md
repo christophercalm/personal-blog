@@ -1,5 +1,5 @@
 ---
-date: Created
+date: 2022-03-17
 title: Self Learning and Personal Projects
 ---
 
