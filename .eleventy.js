@@ -7,7 +7,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('favicon.ico');
   eleventyConfig.addPassthroughCopy('assets/fonts');
   eleventyConfig.addPassthroughCopy('assets/images');
-
+  eleventyConfig.addPassthroughCopy('assets/demos');
+  
   const options = {
     html: true,
     breaks: true,
