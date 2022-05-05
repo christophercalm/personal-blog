@@ -9,7 +9,7 @@ If you are like me, spending excessive time on internet forums or subreddits to 
 
 As a possible scenario, let us imagine that you want to start kayak fishing. The first step that I would take would be to look for decent equipment on a related subreddit. There will probably be some thread that lists an "entry-level" option for around $1000-$2000. 
 
-This seems to be a common theme. All of the cheaper options will be disparaged as something that you will "grow out of" or will inexplicably disintegrate the moment you bring it home. I have noticed this with varied hobby areas such as fishing, hunting, cycling, and even computer keyboards. 
+This seems to be a common theme. All of the cheaper options will be disparaged as something that you will "grow out of" or will inexplicably disintegrate the moment you bring it home. I have noticed this with varied hobby areas such as fishing, hunting, cycling, and even computer keyboards . 
 
 I believe that the reality is that the people that spend a large amount of time on these forums compare with each other and have a vested interest in feeling like their financial investment was worth it. One way to feel that one is part of something or a social group is to make a larger financial investment than others would have made.
 
@@ -33,9 +33,9 @@ Aside from the more obvious financial costs that buying equipment for leisure ac
 I think that part of the reason that I feel drawn to buying more things for hobbies or spending too much time gathering knowledge is that I want to find identity in a hobby. I would like to seem like I know what I am doing and find some sense of belonging in that. However, I need to step back and realize that buying equipment and reading doesn't make me a skater/golfer/hunter/etc and that even if it did, the enjoyment comes from doing and not buying or browsing forums. 
 
 
-### What is the solution to over-consumption?
+### What is the Solution to Over-Consumption?
 
-Buy that "entry-level option" that will last and use it or ride it until it falls apart. Even better, find a used option that will lessen one's environmental impact. Secondly, and this is a bit more practical, get off Reddit for anything related to hobbies or minimize time spent there. If you need real advice, a good Facebook group in your local area may have more genuine people with real faces that whom you can make real relationships with.
+Buy that "entry-level option" that will last and use it or ride it until it falls apart. Even better, find a used option that will lessen one's environmental impact. Secondly, and this is a bit more practical, get off Reddit for anything related to hobbies or minimize time spent there. If you need real advice, a good Facebook group in your local area may have more genuine people with real faces with whom you can make real relationships with.
 
 Someone that I think exemplifies the attitude of consuming less and enjoying more is the channel [PathLessPedaled](https://www.youtube.com/c/PathLessPedaledTV/featured). Although it is a cycling-focused channel, I think that the ethos of riding with a "Party Pace" that they put forth can be generalized to other activities. For me, it means a redirection of focus from mini-maxing efficiency, flash gear, and competition to one focused on relationships made and the joy that comes from living a more simple life. 
 
