@@ -1,17 +1,15 @@
 ---
 date: 2022-05-05
-title:  You Need to Spend $1000 to enjoy X
+title:  You Need to Spend $1000 to enjoy X | Over-Consumption in Hobbies and How to Curb It
 ---
-
-## Over-Consumption in Hobbies and How to Curb It
+ 
+If you are like me, spending excessive time on internet forums or subreddits to find equipment or advice on a hobby will end up with you spending more time worrying about weird technical details than doing the thing that you set out to do. As a bonus, you will end up spending far more money than you planned on. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ZK8Z8hulFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you are like me, spending excessive time on internet forums or subreddits to find equipment or advice on a hobby will end up with you spending more time worrying about weird technical details than doing the thing that you set out to do. As a bonus, you will end up spending far more money than you planned on. 
-
 As a possible scenario, let us imagine that you want to start kayak fishing. The first step that I would take would be to look for decent equipment on a related subreddit. There will probably be some thread that lists an "entry-level" option for around $1000-$2000. 
 
-This seems to be a common theme. All of the cheaper options will be disparaged as something that you will "grow out of" or will inexplicably disintegrate the moment you bring it home. I have noticed this with varied hobby areas such as fishing, hunting, cycling, and long-boarding. 
+This seems to be a common theme. All of the cheaper options will be disparaged as something that you will "grow out of" or will inexplicably disintegrate the moment you bring it home. I have noticed this with varied hobby areas such as fishing, hunting, cycling, and even computer keyboards. 
 
 I believe that the reality is that the people that spend a large amount of time on these forums compare with each other and have a vested interest in feeling like their financial investment was worth it. One way to feel that one is part of something or a social group is to make a larger financial investment than others would have made.
 
