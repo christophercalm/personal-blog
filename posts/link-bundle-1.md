@@ -1,6 +1,6 @@
 ---
 date: 2022-05-26
-title: Humble Link Bundle May 2022 Edition
+title: Humble (Link) Bundle May 2022 Edition
 ---
 
 In the spirit of collecting internet things, I want to start creating link bundles to interesting (to me) content that I would like to share and save. If it makes sense, I will include both archived and original versions to avoid dead links.  
