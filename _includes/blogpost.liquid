@@ -12,7 +12,16 @@
   <body>
     <div class="container post-container">
       <h1>{{ title }}</h1>
-      <div class="content">{{ content }}</div>
+      <div class="content">{{ content }}
+      <div id="cusdis_thread"
+        data-host="https://cusdis.com"
+        data-app-id="1faa1306-b796-43e2-bdd8-617fb9ed75a8"
+        data-page-id="{{ page.url}}"
+        data-page-url="{{ page.url }}"
+        data-page-title="{{ title }}"`
+      ></div>
+          <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+      </div>
       <div class="back-link">
         <a href="/">← Back</a>
       </div>
