@@ -1,5 +1,5 @@
 ---
-date: 2022-05-26
+date: 2022-06-26
 title: Humble (Link) Bundle June 2022 Edition
 ---
 
@@ -22,8 +22,6 @@ This month I found a lot of very useful utilities.
 ### Lifestyle:
 
 * <a href="https://www.additudemag.com/stop-losing-things/">https://www.additudemag.com/stop-losing-things/</a> - <a href="https://web.archive.org/web/20211217233419/https://www.additudemag.com/stop-losing-things/">(archived version)</a> This is an article written primarily ADHD people but that I have found very useful. It describes three practical ways to stop losing things. I had put a couple of these into practice and have already found them to be quite useful. 
-
-* <a href="https://www.damninteresting.com/devouring-the-heart-of-portugal/">https://www.damninteresting.com/devouring-the-heart-of-portugal/</a> - <a href="https://web.archive.org/web/20220525165344/https://www.damninteresting.com/devouring-the-heart-of-portugal/">(archived version)</a> This is a bizarre story about an incredible conman that almost took down the Portuguese banking system. 
 
 * <img src="https://web.archive.org/web/20220610214020if_/https://i.imgur.com/NqswFQ8.png"> 
   
