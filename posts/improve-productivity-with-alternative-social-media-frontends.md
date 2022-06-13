@@ -24,15 +24,14 @@ I you want the simplest solution to use alternative front-ends, this Chrome/Brav
 
 <a href="https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb?hl=en">Privacy Redirect on Chrome Web Store</a>
 
-![Image of PrivacyRedirect](../../assets/images/privacyRedirect.PNG)
+**Note: Apparently this version has not been updated in a while.** The new recommended fork of this project called libredirect can be found here but it must be installed manually for Google Chrome: [libredirect](https://github.com/libredirect/libredirect)
+
+![Image of LibRedirect](../../assets/images/libredirect.PNG)
+
 
 You can select which websites to use alternative front-ends for, and it will automatically pick a random instance to avoid overloading a particular instance. 
 
 There are options for Twitter, Youtube, Instagram, and Google maps. If you select those options, any time that you click a link, it will automatically open that link within one of the alternative front-ends.
-
-If you want to contribute or build it from source, you can do so on their Github link below.
-
-<a href="https://github.com/SimonBrazell/privacy-redirect">https://github.com/SimonBrazell/privacy-redirect</a>
 
 #### Individual Front-Ends:
 
