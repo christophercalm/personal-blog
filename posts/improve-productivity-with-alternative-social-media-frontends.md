@@ -20,7 +20,7 @@ The main source that I have used to find these tools is this Github repo: <a hre
 
 #### An All in One Solution with PrivacyRedirect:
 
-I you want the simplest solution to use alternative front-ends, this Chrome/Brave extension will take care of all of the details for you. 
+If you want the simplest solution to use alternative front-ends, this Chrome/Brave extension will take care of all of the details for you. 
 
 <a href="https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb?hl=en">Privacy Redirect on Chrome Web Store</a>
 
