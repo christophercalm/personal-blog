@@ -1,5 +1,5 @@
 ---
-date: 2022-06-26
+date: 2022-06-21
 title: Humble (Link) Bundle June 2022 Edition
 ---
 
