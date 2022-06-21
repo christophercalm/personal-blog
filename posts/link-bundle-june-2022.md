@@ -12,7 +12,7 @@ Each month I like to highlight some interesting tools, games, and articles that 
 The effect of this is that instead of visiting Facebook to get a dopamine hit from scrolling, you can use it instead for browsing classifieds, checking in on your community pages, or messaging family and friends.
 I have already found that using this plugin has made me more productive and satisfied with my social media use.
 
-* [http://akkartik.name/lines.html](http://akkartik.name/lines.html) - [archived version](https://web.archive.org/web/20220617000356/http://akkartik.name/lines.html])
+* [http://akkartik.name/lines.html](http://akkartik.name/lines.html) - [(archived version)](https://web.archive.org/web/20220617000356/http://akkartik.name/lines.html])
 This is a text editor that allows you to add drawings to plain text documents. Part of the appeal of this to me is that you know that .txt documents will always be readable. The technical specifications are also so simple that one could easily write a program to read these documents long after the original platform is unsupported. 
 
 * [https://kiwibrowser.com/](https://kiwibrowser.com/) - This is a web browser for Android that allows the user to install any Chromium/Brave extension. 
@@ -49,7 +49,7 @@ This is directly in contrast to much modern software that optimizes engagement, 
 * [https://www.folkstreams.net/films/talking-feet](https://www.folkstreams.net/films/talking-feet)
 This is a documentary about traditional folk dancing in the United States that is an interesting look into one of the uniquely American forms of music and dance. 
 
-* [https://100r.co/site/home.html](https://100r.co/site/home.html) - [archived version](https://web.archive.org/web/2/https://100r.co/site/home.html)
+* [https://100r.co/site/home.html](https://100r.co/site/home.html) - [(archived version)](https://web.archive.org/web/2/https://100r.co/site/home.html)
 This is an interesting blog that I have been reading lately. 
 The writers live on a sailboat while writing FOSS tools and games. 
 They take an interesting approach to software by writing software that minimizes power used. 
