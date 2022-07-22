@@ -1,6 +1,6 @@
 ---
 date: 2022-07-22
-title: First Dive into Hosted .Net 6 with Azure App Service
+title: First Dive into Hosted .NET 6 with Azure App Service
 ---
 
 ### Motivation
