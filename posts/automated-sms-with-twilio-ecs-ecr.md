@@ -1,6 +1,6 @@
 ---
 date: 2022-08-22
-title: Automated SMS with Twilio, Amazon ECR, and Amazon ECS. 
+title: Automated SMS with Twilio, Amazon ECR, and Amazon ECS 
 ---
 
 ### Motivation:
