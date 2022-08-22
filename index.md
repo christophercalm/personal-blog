@@ -7,7 +7,7 @@ title: Christopher's Blog
 
 #### Hello,
 
-And welcome to my micro-blog. I love old fashioned, text-based Web 1.0 websites that are simple and respect one's privacy. As part of this, I promise not to run intrusive analytics and to keep any kind of JS to a minimum. 
+And welcome to my blog. I love old fashioned, text-based Web 1.0 websites that are simple and respect one's privacy. As part of this, I promise not to run intrusive analytics and to keep any kind of JS to a minimum. 
 
 I have found that over the years, interesting ideas, links, and applications that I have collected usually become lost. My goal is to save these here as a reference for my future self. I hope that these ramblings will be of some use to you and me. 
 
