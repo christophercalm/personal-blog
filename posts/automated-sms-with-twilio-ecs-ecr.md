@@ -5,7 +5,7 @@ title: Automated SMS with Twilio, Amazon ECR, and Amazon ECS.
 
 ### Motivation:
 
-Remembering birthdays has been a singularly difficult task for me. Rather than improving myself and my memory, I decided to have technology fix my problem for me while, at the same time, learning about that mysterious world of ops and sysadmin. I also find automated SMS systems that aren't used for spam to be very interesting. In the short space of time where social media had taken over, but cellphones did not have reliable internet connection, there were SMS gateways that allowed the user to interact with the internet. One was able to post on Facebook, tweet a tweet, or get answers to homework problems -- all without having an internet connection. In this spirit, I wanted to create a long running script that would periodically check if there were any upcoming birthdays in my list, and send me a message with their age and birthday if so.
+Remembering birthdays has been a singularly difficult task for me. Rather than improving myself and my memory, I decided to have technology fix my problem for me while, at the same time, learning about that mysterious world of ops and sysadmin. I also find automated SMS systems that aren't used for spam to be very interesting. In the short space of time that social media had taken over, but cellphones did not have a reliable internet connection, there were SMS gateways that allowed the user to interact with the internet. One was able to post on Facebook, tweet a tweet, or get answers to homework problems -- all without having an internet connection. In this spirit, I wanted to create a long running script that would periodically check if there were any upcoming birthdays on my list, and send me a message with their age and birthday if so.
 
 ### Stack Chosen:
 
@@ -72,7 +72,7 @@ I opted to go for the ECS console walkthrough that you can find after going to t
 
 ### Using EC2
 
-In the end, after realizing that ECS is not available for free tier, I eventually hosted my script on a Ubuntu 22.04 LTS container with EC2. This was relatively easy to setup, but as a bit of a note to my future self, the key generation tool works for the ubuntu user, not the root user when logging in via SSH. I simply pulled in the git repo and added my real data and env file. Then followed the commands in the Dockerfile to set up the cron job and python packages.
+In the end, after realizing that ECS was not available in the free tier, I eventually hosted my script on an Ubuntu 22.04 LTS container with EC2. This was relatively easy to setup, but as a bit of a note to my future self, the key generation tool works for the ubuntu user, not the root user when logging in via SSH. I simply pulled in the git repo and added my real data and env file. Then followed the commands in the Dockerfile to set up the cron job and python packages.
 
 I changed the crontab entry to 
 
