@@ -12,8 +12,26 @@
   <body>
     <div class="container">
       {{ content }}
-      
-      <h2 class="category">Posts:</h2>
+      <hr>
+      <p>Subscribe to receive email updates!</p>
+      <form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <div hidden aria-hidden="true">
+          <label>
+            Don’t fill this out if you're human: 
+            <input name="bot-field" />
+          </label>
+        </div>
+        <label for="email">Your email address</label>
+        <div>
+          <input type="email" name="email" placeholder="Email"  id="email" required />
+          <button type="submit">Subscribe</button>
+        </div>
+      </form>
+      <br>
+      <hr>
+
+
+      <h3 class="category">Posts:</h3>
       <ul class="posts">
         {% for post in collections.posts reversed %}
         <li class="post">
@@ -31,22 +49,7 @@
         {% endfor %}
       </ul>
       <br>
-      <hr>
-      <p>Subscribe to receive email updates.</p>
-      <form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-        <div hidden aria-hidden="true">
-          <label>
-            Don’t fill this out if you're human: 
-            <input name="bot-field" />
-          </label>
-        </div>
-        <label for="email">Your email address</label>
-        <div>
-          <input type="email" name="email" placeholder="Email"  id="email" required />
-          <button type="submit">Subscribe</button>
-        </div>
-      </form>
-
+      
 
     </div>
 
